@@ -1,4 +1,4 @@
-[demo.webm](https://github.com/user-attachments/assets/8bc616c2-d1b4-4887-afa7-2ee27b44a05d)
+
 # Water Pipeline Network - Kruskal's Algorithm Visualization
 
 A lightweight web application for designing water pipeline/irrigation networks and computing the Minimum Spanning Tree using Kruskal's algorithm.
